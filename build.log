@@ -1,0 +1,33 @@
+Logfile initialized
+[INFO] logfile = /Users/mike/Documents/Magic Briefcase/dev_Appcelerator/SQLitest/build.log
+[DEBUG] /Library/Application Support/Titanium/mobilesdk/osx/1.7.5/android/builder.py simulator SQLitest /Applications/android-sdk-macosx /Users/mike/Documents/Magic Briefcase/dev_Appcelerator/SQLitest com.findmory.sqlitest 2 WXGA 
+[INFO] Building SQLitest for Android ... one moment
+[INFO] Titanium SDK version: 1.7.5 (11/02/11 17:00 ab20af7)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.028474 seconds on emulator to get ready
+[DEBUG] com.findmory.sqlitest installed? True
+[INFO] Fastdev server running, deploying in Fastdev mode
+[INFO] Copying project resources..
+[TRACE] COPYING MODIFIED FILE: /Users/mike/Documents/Magic Briefcase/dev_Appcelerator/SQLitest/Resources/app.js => /Users/mike/Documents/Magic Briefcase/dev_Appcelerator/SQLitest/build/android/bin/assets/Resources/app.js
+[INFO] Tiapp.xml unchanged, skipping class generation
+[DEBUG] Processing Android resource drawables
+[DEBUG] found drawable-long-land-hdpi splash screen at /Users/mike/Documents/Magic Briefcase/dev_Appcelerator/SQLitest/Resources/android/images/res-long-land-hdpi/default.png
+[DEBUG] found drawable-long-land-ldpi splash screen at /Users/mike/Documents/Magic Briefcase/dev_Appcelerator/SQLitest/Resources/android/images/res-long-land-ldpi/default.png
+[DEBUG] found drawable-long-port-hdpi splash screen at /Users/mike/Documents/Magic Briefcase/dev_Appcelerator/SQLitest/Resources/android/images/res-long-port-hdpi/default.png
+[DEBUG] found drawable-long-port-ldpi splash screen at /Users/mike/Documents/Magic Briefcase/dev_Appcelerator/SQLitest/Resources/android/images/res-long-port-ldpi/default.png
+[DEBUG] found drawable-notlong-land-hdpi splash screen at /Users/mike/Documents/Magic Briefcase/dev_Appcelerator/SQLitest/Resources/android/images/res-notlong-land-hdpi/default.png
+[DEBUG] found drawable-notlong-land-ldpi splash screen at /Users/mike/Documents/Magic Briefcase/dev_Appcelerator/SQLitest/Resources/android/images/res-notlong-land-ldpi/default.png
+[DEBUG] found drawable-notlong-land-mdpi splash screen at /Users/mike/Documents/Magic Briefcase/dev_Appcelerator/SQLitest/Resources/android/images/res-notlong-land-mdpi/default.png
+[DEBUG] found drawable-notlong-port-hdpi splash screen at /Users/mike/Documents/Magic Briefcase/dev_Appcelerator/SQLitest/Resources/android/images/res-notlong-port-hdpi/default.png
+[DEBUG] found drawable-notlong-port-ldpi splash screen at /Users/mike/Documents/Magic Briefcase/dev_Appcelerator/SQLitest/Resources/android/images/res-notlong-port-ldpi/default.png
+[DEBUG] found drawable-notlong-port-mdpi splash screen at /Users/mike/Documents/Magic Briefcase/dev_Appcelerator/SQLitest/Resources/android/images/res-notlong-port-mdpi/default.png
+[INFO] Waiting for SDCard to become available..
+[INFO] Re-launching application ... SQLitest
+[INFO] Launching application ... SQLitest
+[TRACE] Launch output: Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.findmory.sqlitest/.SqlitestActivity }
+Warning: Activity not started, its current task has been brought to the front
+
+[DEBUG] signal caught: 15
+[DEBUG] calling emulator kill on 9713
